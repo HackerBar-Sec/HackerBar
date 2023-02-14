@@ -43,7 +43,7 @@
 
 3.点击 `加载已解压的扩展程序` 选择该插件目录加载
 
-![image1](img/image1.png)
+![image1](img/image1.jpg)
 
 #### 商城安装
 
@@ -53,20 +53,20 @@
 
 3.下载到浏览器
 
-![image2](img/image2.png)
+![image2](img/image2.jpg)
 
 ## 功能
 
 ### 基本信息
 
-![image3](img/image3.png)
+![image3](img/image3.jpg)
 
 ### 端口服务
-![image4](img/image4.png)
+![image4](img/image4.jpg)
 
 ### 公司信息
-![image5](img/image5.png)
+![image5](img/image5.jpg)
 
 ### 资产测绘
 
-![image6](img/image6.png)
+![image6](img/image6.jpg)
