@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src=“./img/icon.png“ align="center" alt=“HackerBar” />
+ <img width="100px" src="img/icon.png" align="center" alt=“HackerBar” />
  <h2 align="center">HackerBar</h2>
  <p align="center">一款匿名的资产查询工具</p>
 </p>
@@ -38,7 +38,9 @@
 下载版本：https://github.com/HackerBar-Sec/HackerBar/releases
 
 1.下载并解压
+
 2.打开 chrome://extensions/ 并且开启开发者模式
+
 3.点击 `加载已解压的扩展程序` 选择该插件目录加载
 
 ![](img/image1.png)
@@ -46,8 +48,11 @@
 #### 商城安装
 
 1.打开https://chrome.google.com/webstore/category/extensions谷歌商城
+
 2.搜索`hackerbar`
+
 3.下载到浏览器
+
 ![](img/image2.png)
 
 ## 功能

@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "HackerBar",
+  "version": "1.1.0",
+  "description": "安全工具",
+  "icons": {
+    "16": "./img/icon.png",
+    "128": "./img/icon.png",
+    "48": "./img/icon.png"
+  },
+  "host_permissions": [
+    "*://*/*"
+  ],
+  "action": {
+    "default_title": "HackerBar",
+    "default_icon": "./img/icon.png",
+    "default_popup": "index.html"
+  },
+  "update_url": "https://hackerbar.org/extension/version_update",
+  "permissions": [
+    "tabs"
+  ],
+  "content_scripts": [
+    {
+      "js": [
+        "./umi.js"
+      ],
+      "matches": [
+        "http://*/*",
+        "https://*/*",
+        "<all_urls>"
+      ],
+      "run_at": "document_end"
+    }
+  ]
+}
