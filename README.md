@@ -7,10 +7,10 @@
 <img src="https://img.shields.io/github/v/release/HackerBar-Sec/HackerBar?color=0088ff" />
 <img src="https://img.shields.io/chrome-web-store/rating-count/fplaffnjgbolllofijjpoebjgbilgkef">
     <a href="https://github.com/HackerBar-Sec/HackerBar/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/HackerBar-Sec/HackerBar?color=0088ff" />
     </a>
     <a href="https://github.com/HackerBar-Sec/HackerBar/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/HackerBar-Sec/HackerBar?color=0088ff" />
     </a>
     <br />
  </p>
@@ -43,7 +43,7 @@
 
 3.点击 `加载已解压的扩展程序` 选择该插件目录加载
 
-![](img/image1.png)
+![image1](img/image1.png)
 
 #### 商城安装
 
@@ -53,20 +53,20 @@
 
 3.下载到浏览器
 
-![](img/image2.png)
+![image2](img/image2.png)
 
 ## 功能
 
 ### 基本信息
 
-![](img/image3.png)
+![image3](img/image3.png)
 
 ### 端口服务
-![](img/image4.png)
+![image4](img/image4.png)
 
 ### 公司信息
-![](img/image5.png)
+![image5](img/image5.png)
 
 ### 资产测绘
 
-![](img/image6.png)
+![image6](img/image6.png)
