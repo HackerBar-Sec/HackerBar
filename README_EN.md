@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="img/icon.png" align="center" alt=“HackerBar” />
  <h2 align="center">HackerBar</h2>
- <p align="center">一款匿名的资产查询工具</p>
+ <p align="center">An anonymous asset query tool</p>
 </p>
   <p align="center">
 <img src="https://img.shields.io/github/v/release/HackerBar-Sec/HackerBar?color=0088ff" />
@@ -26,46 +26,46 @@
     </p>
 </p>
 
-> HackerBar是一款匿名资产查询插件，目前主要上架于[Chrome](https://www.google.com/chrome/)。
+> HackerBar is an anonymous asset query tool, currently mainly listed on [Chrome](https://www.google.com/chrome/)。
 
-项目地址：https://github.com/HackerBar-Sec/HackerBar
+Project Location：https://github.com/HackerBar-Sec/HackerBar
 
-## 安装
+## Install
 
-### 手动安装
+### Manual
 
-下载版本：https://github.com/HackerBar-Sec/HackerBar/releases
+Releases：https://github.com/HackerBar-Sec/HackerBar/releases
 
-1.下载并解压
+1.Download and Unzip
 
-2.打开 chrome://extensions/ 并且开启开发者模式
+2.Open `chrome://extensions/` and Enable developer mode
 
-3.点击 `加载已解压的扩展程序` 选择该插件目录加载
+3.Click `Load unpacked` select the plugin directory to load
 
 ![image1](img/image1.jpg)
 
-### 商城安装
+### Chrome Web Store
 
-1.打开https://chrome.google.com/webstore/category/extensions谷歌商城
+1.Open the `https://chrome.google.com/webstore/category/extensions` to Chrome Web Store 
 
-2.搜索`hackerbar`
+2.Search `hackerbar`
 
-3.下载到浏览器
+3.Add to Chrome
 
 ![image2](img/image2.jpg)
 
-## 功能
+## Feature
 
-### 基本信息
+### Basic Information
 
 ![image3](img/image3.jpg)
 
-### 端口服务
+### Ports
 ![image4](img/image4.jpg)
 
-### 公司信息
+### Company
 ![image5](img/image5.jpg)
 
-### 资产测绘
+### Cyberspace
 
 ![image6](img/image6.jpg)
