@@ -31,9 +31,7 @@
 
 ## 安装
 
-### Chrome
-
-#### 手动安装
+### 手动安装
 
 下载版本：https://github.com/HackerBar-Sec/HackerBar/releases
 
@@ -45,7 +43,7 @@
 
 ![image1](img/image1.jpg)
 
-#### 商城安装
+### 商城安装
 
 1.打开https://chrome.google.com/webstore/category/extensions谷歌商城
 
